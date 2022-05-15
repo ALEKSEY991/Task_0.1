@@ -1,0 +1,8 @@
+# Editor ditectories and files
+.idea
+.vscode
+*.suo
+*.ntvs*
+*.njsptoj
+*.sin
+*.sw?
